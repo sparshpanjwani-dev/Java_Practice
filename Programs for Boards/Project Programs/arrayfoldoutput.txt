@@ -1,0 +1,5 @@
+Enter Input
+2 44 6 8 22
+Enter number of folds
+2
+30 52

@@ -1,0 +1,2 @@
+question addum-
+square of number is reverse of square of reverse of number

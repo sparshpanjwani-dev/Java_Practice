@@ -1,0 +1,25 @@
+Enter no. of students
+4
+Enter Name of Student 1
+Sparsh
+Enter the Marks of the above Student
+95
+Enter Name of Student 2
+Prakash
+Enter the Marks of the above Student
+22
+Enter Name of Student 3
+Krishna
+Enter the Marks of the above Student
+66
+Enter Name of Student 4
+Kamlesh
+Enter the Marks of the above Student
+12
+The Data you Entered-->
+Sparsh        95
+Prakash        22
+Krishna        66
+Kamlesh        12
+Students with highest marks are-->
+Sparsh        95
